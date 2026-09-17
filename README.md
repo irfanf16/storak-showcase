@@ -7,7 +7,7 @@ A marketplace where independent vendors run their own storefronts under one plat
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Backend lead — designed the JWT-authenticated API, search layer and vendor commission model; built both Blade consoles.
+Backend engineer
 
 ## Architecture
 
