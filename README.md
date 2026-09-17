@@ -38,13 +38,6 @@ Backend engineer
 **Notifications.** Twilio SMS for order and delivery updates.
 
 
-## Screenshots
-
-<!-- ![Vendor Dashboard](docs/vendor-dashboard.png) -->
-<!-- ![Admin Commission](docs/admin-commission.png) -->
-<!-- ![Storefront](docs/storefront.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
